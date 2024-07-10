@@ -18,7 +18,7 @@
 <p>str[0] = 'B' #is not allowed</p>
 <hr>
 
-<h1>Slicing<h1>
+<h1>Slicing</h1>
 <p>Asccessing parts of a string</p>
 
 <p>str = "AzamShaikh"</p>
