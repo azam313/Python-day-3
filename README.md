@@ -1,4 +1,4 @@
-String
+<h1>String</h1>
 String is data type that stores a sequence of chaacters.
 
 Basic Operations
