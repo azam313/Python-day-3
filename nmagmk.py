@@ -1,0 +1,5 @@
+name = input("enter name: ")
+age = input("enter age: ")
+mark = input("enter marks: ")
+print("wellcome", name)
+print("ur age is " ,age ,"and u got ",mark, "%")
