@@ -39,9 +39,9 @@
 
 <h1>String Function</h1>
 
-<p>str = "I am a coder."
-str.endsWith("er.") #return true if string ends with substr<br>
-str.capitalize() #capitalizes 1st char<br>
-str.replace(old, new) #replaces all old with new<br>
-str.find(word) #return 1st index of 1st occurrence<br>
-str.count("am) #counts the occurrence of substr in string</p>
+<p>str = "I am a coder."</p>
+<p>str.endsWith("er.") #return true if string ends with substr</p>
+<p>str.capitalize() #capitalizes 1st char</p>
+<p>str.replace(old, new) #replaces all old with new</p>
+<p>str.find(word) #return 1st index of 1st occurrence</p>
+<p>str.count("am) #counts the occurrence of substr in string</p>
